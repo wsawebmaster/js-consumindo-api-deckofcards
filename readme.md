@@ -52,13 +52,13 @@
 
 O projeto consome a API exibindo uma carta por vez que vai alternando com clique
 
-
-## 📖 Documentação
-
-[API](https://deckofcardsapi.com/)
-
+[AcessarProjeto] (https://wsawebmaster.github.io/js-consumindo-api-deckofcards/)
 
 ## ⚙️ Funcionalidades
 
 - Conecta a API
 - Preview em tempo real
+
+## 📖 Documentação
+
+[API](https://deckofcardsapi.com/)
