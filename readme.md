@@ -52,7 +52,7 @@
 
 O projeto consome a API exibindo uma carta por vez que vai alternando com clique
 
-[AcessarProjeto] (https://wsawebmaster.github.io/js-consumindo-api-deckofcards/)
+[AcessarProjeto](https://wsawebmaster.github.io/js-consumindo-api-deckofcards/)
 
 ## ⚙️ Funcionalidades
 
